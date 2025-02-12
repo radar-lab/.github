@@ -9,7 +9,7 @@ Learning for Sensors, Radar Imaging
 
 ### 1. Human Pose Estimation using mmWave Radar
 
-<details>
+<details open>
 
 <summary>More Information</summary>
 
