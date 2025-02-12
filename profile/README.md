@@ -87,6 +87,10 @@ single corner reflector. Solves PnP with RANSAC and LM optimization.
 
 #### Targetless Calibration
 
+<details>
+
+<summary>More Information</summary>
+
 <img src="images/f7.jpg" alt="Targetless Calibration" height="400px" style="float: left; margin-right: 20px;"/>
 
 **Description**: Online calibration via deep learning to extract common features
@@ -105,6 +109,9 @@ adaptive variance measures to ensure efficiency during the optimization process.
 -   **Online Targetless Calibration Using Common Features**  
     _L. Cheng, S. Cao_  
     _IEEE National Aerospace and Electronics Conference_, 2023.
+
+</details>
+
 
 ---
 
