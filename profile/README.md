@@ -9,6 +9,10 @@ Learning for Sensors, Radar Imaging
 
 ### 1. Human Pose Estimation using mmWave Radar
 
+<details>
+
+<summary>More Information</summary>
+
 <img src="images/f5.jpg" alt="Pose Estimation" height="300px" style="float: left; margin-right: 20px;"/>
 
 **Description**: Development of **mmPose-FK**, a novel mmWave radar-based pose
@@ -28,6 +32,8 @@ integration.
 3. **Real-Time Pose Estimation with CNNs**  
    _A. Sengupta et al._  
    _IEEE Sensor Journal_, 2020.
+
+</details>
 
 ---
 
@@ -60,6 +66,10 @@ obstructions and data scarcity.
 
 #### Target-Based Calibration
 
+<details>
+
+<summary>More Information</summary>
+
 <img src="images/f6.jpg" alt="Target-Based Calibration" height="300px" style="float: right; margin-left: 10px;"/>
 
 **Description**: Flexible extrinsic calibration of 3D radar and camera using a
@@ -72,6 +82,8 @@ single corner reflector. Solves PnP with RANSAC and LM optimization.
     _IEEE Radar Conference_, 2023.
 
 <div style="clear: both;"></div>
+
+</details>
 
 #### Targetless Calibration
 
